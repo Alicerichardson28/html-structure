@@ -23,7 +23,7 @@
     left: 50%;
     transform: translateX(-50%);
     z-index: 999;
-    background: tomato;
+    background: rgba(255, 99, 71, 0.907);
     padding: 0.5rem 2rem;
     border-radius: 5px;
     color: #fff;
